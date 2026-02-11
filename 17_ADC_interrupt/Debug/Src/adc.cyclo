@@ -1,0 +1,5 @@
+D:/STM32/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Src/adc.c:29:6:pa1_adc_interrupt_init	1
+../Src/adc.c:64:6:pa1_adc_init	1
+../Src/adc.c:106:6:start_conversion	1
+../Src/adc.c:118:10:adc_read	2

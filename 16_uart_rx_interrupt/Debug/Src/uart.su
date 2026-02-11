@@ -1,0 +1,9 @@
+D:/STM32/STM32Cube_FW_F4_V1.28.0/Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/uart.c:26:5:__io_putchar	16	static
+../Src/uart.c:31:6:uart2_tx_init	8	static
+../Src/uart.c:52:6:uart2_rxtx_interrupt_init	8	static
+../Src/uart.c:91:6:uart2_rxtx_init	8	static
+../Src/uart.c:125:13:usrt_set_baudrate	24	static
+../Src/uart.c:129:17:compute_usrt_bd	16	static
+../Src/uart.c:135:6:uart2_read	4	static
+../Src/uart.c:143:6:uart2_write	16	static
